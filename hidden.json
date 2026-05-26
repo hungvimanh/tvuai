@@ -1,0 +1,331 @@
+[
+{
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "chapter",
+    "sourceType": "Chapter",
+    "title": "Ứng dụng AI trong nghiên cứu khoa học",
+    "eyebrow": "Phần 2",
+    "centerText": true,
+    "subtitle": "Từ ý tưởng, tài liệu đến bản nháp học thuật có kiểm soát",
+    "bullets": [],
+    "notes": [
+      "Bổ sung rõ phần NCKH cho giảng viên.",
+      "Nhấn mạnh AI hỗ trợ quá trình tư duy và viết, không thay thế dữ liệu, phương pháp, trích dẫn và trách nhiệm học thuật."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "research",
+    "hideImage": true,
+    "wide": false,
+    "id": 26
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "featureGrid",
+    "sourceType": "Timeline",
+    "title": "AI hỗ trợ bước nào trong NCKH?",
+    "subtitle": "Dùng AI như trợ lý nghiên cứu, không dùng như người viết thay hoặc tạo nguồn thay.",
+    "bullets": [
+      "Thiết kế nghiên cứu: ý tưởng, câu hỏi nghiên cứu, đề cương",
+      "Làm việc với tài liệu: tìm nguồn, tóm tắt, so sánh, literature matrix",
+      "Viết và công cụ: abstract, introduction, bảng hỏi, phỏng vấn"
+    ],
+    "notes": [
+      "Trình bày như một workflow nghiên cứu.",
+      "Nói rõ mỗi bước đều cần giảng viên kiểm tra và quyết định."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "research-flow",
+    "image": null,
+    "wide": false,
+    "grid": "three",
+    "id": 27
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "6 việc AI có thể làm cho NCKH",
+    "subtitle": "Gom các case study vào một slide để dành thời lượng cho công cụ và demo.",
+    "bullets": [
+      "Tinh chỉnh ý tưởng: thu hẹp chủ đề thành câu hỏi nghiên cứu khả thi",
+      "Lập đề cương: mục tiêu, phương pháp, dữ liệu, cấu trúc bài viết",
+      "Tóm tắt tài liệu: mục tiêu, mẫu, phương pháp, kết quả, hạn chế",
+      "Literature review: tổng hợp theo chủ đề từ nguồn thật đã kiểm chứng",
+      "Abstract & introduction: chỉnh mạch lập luận, văn phong, độ dài",
+      "Bảng hỏi/phỏng vấn: tạo bản nháp câu hỏi, kiểm tra tránh dẫn dắt"
+    ],
+    "notes": [
+      "Slide này thay cho các slide case lẻ cũ.",
+      "Nhấn mạnh ranh giới: AI giúp tổ chức và diễn đạt, không tạo dữ liệu, không tạo trích dẫn giả."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "research-cases",
+    "image": null,
+    "wide": false,
+    "grid": "three",
+    "id": 28
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "chapter",
+    "sourceType": "Chapter",
+    "title": "Công cụ 1: Perplexity",
+    "subtitle": "Tìm kiếm có nguồn, so sánh tài liệu, dựng bức tranh ban đầu về chủ đề",
+    "bullets": [],
+    "notes": [
+      "Giới thiệu Perplexity như công cụ search có trích nguồn, phù hợp bước khám phá ban đầu.",
+      "Không coi Perplexity là nguồn học thuật cuối cùng; cần mở bài gốc, kiểm tra tạp chí, tác giả, năm công bố."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "perplexity",
+    "image": null,
+    "wide": false,
+    "id": 29
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "Perplexity dùng để làm gì?",
+    "subtitle": "Phù hợp cho bước định hướng và rà soát nguồn, không thay thế thư viện học thuật.",
+    "bullets": [
+      "Search có nguồn: trả lời kèm đường dẫn để kiểm tra lại",
+      "Deep Research: tổng hợp nhiều nguồn thành báo cáo ban đầu",
+      "Collections/Spaces: lưu nhóm nguồn theo chủ đề nghiên cứu"
+    ],
+    "notes": [
+      "Giải thích ngắn gọn 3 tình huống dùng.",
+      "Nhắc người nghe ưu tiên mở nguồn gốc và kiểm tra DOI/tạp chí khi dùng cho bài báo."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "perplexity-features",
+    "image": null,
+    "wide": false,
+    "grid": "three",
+    "id": 30
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "demo",
+    "sourceType": "Demo",
+    "title": "Demo Perplexity 1: tìm và so sánh nguồn",
+    "subtitle": "Dùng để có cái nhìn ban đầu, sau đó mở từng nguồn để kiểm chứng.",
+    "bullets": [
+      "Chủ đề: một vấn đề nghiên cứu cụ thể",
+      "Đầu ra: bảng so sánh phương pháp, mẫu, kết quả",
+      "Kiểm chứng: mở nguồn gốc, lưu DOI/link, loại bỏ nguồn yếu"
+    ],
+    "notes": [
+      "Demo trực tiếp nếu có internet: nhập prompt, mở 1-2 nguồn Perplexity trích dẫn.",
+      "Nhấn mạnh không copy nguyên phần tổng hợp vào literature review."
+    ],
+    "prompt": "Tôi đang tìm tài liệu về chủ đề: [chủ đề nghiên cứu].\n\nHãy tìm các nghiên cứu gần đây và lập bảng gồm:\n- Tác giả/năm\n- Mục tiêu nghiên cứu\n- Phương pháp\n- Mẫu/dữ liệu\n- Kết quả chính\n- Hạn chế\n- Đường dẫn nguồn để tôi kiểm tra\n\nƯu tiên bài báo học thuật, báo cáo chính thức; không dùng blog cá nhân nếu có nguồn tốt hơn.",
+    "tone": "blue",
+    "visual": "perplexity-search",
+    "hideImage": true,
+    "image": {
+      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Minh họa tìm kiếm và so sánh tài liệu nghiên cứu"
+    },
+    "wide": false,
+    "id": 31
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "demo",
+    "sourceType": "Demo",
+    "title": "Demo Perplexity 2: Deep Research → literature matrix",
+    "subtitle": "Từ báo cáo tổng hợp ban đầu sang ma trận tài liệu để giảng viên kiểm tra.",
+    "bullets": [
+      "Bước 1: yêu cầu báo cáo tổng quan theo nhóm chủ đề",
+      "Bước 2: chuyển thành literature matrix",
+      "Bước 3: đánh dấu nguồn cần đọc kỹ và nguồn chưa đủ tin cậy"
+    ],
+    "notes": [
+      "Nên demo tư duy quy trình: search → matrix → đọc nguồn gốc → viết bằng lập luận của mình.",
+      "Cảnh báo AI có thể hiểu sai bài báo; phần matrix chỉ là bản nháp để đọc nhanh."
+    ],
+    "prompt": "Từ các nguồn đã tìm được, hãy tạo literature matrix gồm các cột:\n1. Nguồn\n2. Câu hỏi/mục tiêu nghiên cứu\n3. Lý thuyết hoặc khung phân tích\n4. Phương pháp\n5. Kết quả chính\n6. Hạn chế\n7. Liên quan đến đề tài của tôi như thế nào\n8. Mức cần đọc kỹ: Cao/Trung bình/Thấp\n\nKhông viết literature review hoàn chỉnh ở bước này.",
+    "tone": "blue",
+    "visual": "perplexity-deep-research",
+    "hideImage": true,
+    "image": {
+      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Minh họa xây dựng literature matrix"
+    },
+    "wide": false,
+    "id": 32
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "chapter",
+    "sourceType": "Chapter",
+    "title": "Công cụ 2: ChatGPT cho NCKH",
+    "subtitle": "Chỉnh lập luận, văn phong học thuật và công cụ nghiên cứu — dựa trên dữ liệu thật",
+    "bullets": [],
+    "notes": [
+      "Giới thiệu ChatGPT phù hợp cho soạn nháp, chỉnh văn phong, phản biện cấu trúc và tạo công cụ nghiên cứu.",
+      "Nhắc người nghe không yêu cầu ChatGPT tạo nguồn hoặc kết quả nghiên cứu nếu không có dữ liệu."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "chatgpt-research",
+    "image": null,
+    "wide": false,
+    "id": 33
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "demo",
+    "sourceType": "Demo",
+    "title": "Demo ChatGPT: chỉnh abstract, lit review, bảng hỏi",
+    "subtitle": "Dùng ChatGPT để cải thiện bản nháp, không thêm dữ liệu hoặc kết luận mới.",
+    "bullets": [
+      "Abstract: làm rõ vấn đề, phương pháp, kết quả, đóng góp",
+      "Literature review: tổ chức lại lập luận từ ghi chú nguồn thật",
+      "Bảng hỏi/phỏng vấn: tạo bản nháp và rà câu hỏi dẫn dắt"
+    ],
+    "notes": [
+      "Có thể chọn một trong ba demo tùy thời gian.",
+      "Nếu demo abstract, nên dùng đoạn giả lập hoặc nội dung không nhạy cảm.",
+      "Nhấn mạnh yêu cầu quan trọng: không thêm số liệu, kết quả, trích dẫn mới."
+    ],
+    "prompt": "Hãy chỉnh sửa abstract sau cho mạch lạc, học thuật và ngắn gọn hơn.\n\nYêu cầu bắt buộc:\n- Giữ nguyên ý nghĩa, phương pháp và kết quả nghiên cứu\n- Không thêm số liệu, trích dẫn hoặc kết luận mới\n- Độ dài khoảng 180–220 từ\n- Sau bản sửa, liệt kê 5 điểm đã cải thiện\n- Đánh dấu chỗ nào còn thiếu thông tin để tôi bổ sung\n\nAbstract:\n[Nhập nội dung abstract]",
+    "tone": "blue",
+    "visual": "chatgpt-writing",
+    "hideImage": true,
+    "image": {
+      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Minh họa chỉnh sửa bài viết học thuật bằng AI"
+    },
+    "wide": false,
+    "id": 34
+  },
+  {
+    "section": "AI cho nghiên cứu khoa học",
+    "layout": "featureGrid",
+    "sourceType": "List",
+    "title": "Ranh giới khi dùng AI trong NCKH",
+    "subtitle": "AI hỗ trợ nghiên cứu, nhưng trách nhiệm học thuật vẫn thuộc về người nghiên cứu.",
+    "bullets": [
+      "Không bịa nguồn: tài liệu tham khảo phải kiểm chứng được",
+      "Không thay dữ liệu thật: AI không tạo kết quả nghiên cứu",
+      "Không thay trách nhiệm: giảng viên quyết định kết luận và khai báo theo quy định"
+    ],
+    "notes": [
+      "Kết thúc phần NCKH bằng nguyên tắc trách nhiệm.",
+      "Có thể nhắc mỗi trường/tạp chí có quy định riêng về việc khai báo sử dụng AI."
+    ],
+    "prompt": "",
+    "tone": "warn",
+    "visual": "research-ethics",
+    "image": null,
+    "wide": false,
+    "grid": "three",
+    "id": 35
+  },
+  {
+    "id": 36,
+    "section": "AI cho công việc cán bộ",
+    "layout": "chapter",
+    "sourceType": "Chapter",
+    "title": "AI cho công việc cán bộ",
+    "subtitle": "Giảm tải việc lặp lại, chuẩn hóa quy trình hành chính",
+    "bullets": [],
+    "notes": [
+      "Chuyển trọng tâm sang khối cán bộ phòng ban.",
+      "AI đặc biệt phù hợp với công việc nặng về văn bản: thông báo, FAQ, phân loại phản hồi, nội dung truyền thông.",
+      "Các nghiệp vụ hành chính thường lặp lại theo tuần/tháng — đây là điểm AI giúp tiết kiệm thời gian rõ nhất.",
+      "Nhắc người nghe: AI tạo bản nháp, con người vẫn phải kiểm tra căn cứ, quy chế, thẩm quyền, thời hạn."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "office-dashboard",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 37,
+    "section": "AI cho công việc cán bộ",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "Nhóm việc AI hỗ trợ tốt cho cán bộ",
+    "subtitle": "",
+    "bullets": [
+      "Soạn thông báo / email hành chính",
+      "Tạo FAQ và kịch bản tư vấn",
+      "Tóm tắt văn bản dài thành điểm chính",
+      "Tạo checklist quy trình",
+      "Phân loại phản hồi sinh viên",
+      "Viết nội dung truyền thông fanpage"
+    ],
+    "notes": [
+      "Đây là những loại việc xuất hiện hằng tuần ở các phòng ban: Đào tạo, CTSV, Tuyển sinh, Hành chính.",
+      "AI giúp tạo bản nháp nhanh, cán bộ kiểm tra căn cứ pháp lý, đối tượng áp dụng, thời hạn trước khi phát hành.",
+      "Không cần phần mềm đặc biệt — ChatGPT, Claude, Gemini đều dùng được ngay."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "admin-tasks",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 38,
+    "section": "AI cho công việc cán bộ",
+    "layout": "demo",
+    "sourceType": "Demo",
+    "title": "Case Phòng Đào tạo: từ thông báo đến nhiều định dạng",
+    "subtitle": "",
+    "bullets": [
+      "Đầu vào: thông tin học vụ",
+      "Đầu ra 1: thông báo chính thức",
+      "Đầu ra 2: bản ngắn cho Zalo/Facebook",
+      "Đầu ra 3: 10 câu hỏi FAQ + đáp án",
+      "Đầu ra 4: checklist 5 việc sinh viên cần làm"
+    ],
+    "notes": [
+      "Demo trực tiếp: dùng một thông báo học vụ thật (hoặc giả lập) làm đầu vào.",
+      "Một prompt sinh ra 4 định dạng phù hợp 4 kênh truyền thông khác nhau.",
+      "Nhấn mạnh người dùng phải kiểm tra thời hạn, đối tượng áp dụng, thẩm quyền ký trước khi phát hành.",
+      "Đây là minh họa rõ nhất về giá trị thực tế của AI với phòng ban."
+    ],
+    "prompt": "Dựa trên thông báo sau, hãy tạo 4 đầu ra:\n1. Bản thông báo chính thức\n2. Bản tóm tắt ngắn để đăng nhóm Zalo sinh viên\n3. 10 câu hỏi thường gặp và câu trả lời\n4. Checklist 5 việc sinh viên cần làm\n\nThông báo gốc:\n[Nhập nội dung thông báo]",
+    "tone": "blue",
+    "visual": "document-flow",
+    "hideImage": true,
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 39,
+    "section": "AI cho công việc cán bộ",
+    "layout": "split",
+    "sourceType": "Split Screen",
+    "title": "Case CTSV & Tuyển sinh",
+    "subtitle": "",
+    "bullets": [
+      "CTSV: Email phản hồi sinh viên đúng mực",
+      "CTSV: Kịch bản tư vấn ban đầu",
+      "CTSV: Phân loại vấn đề SV phản ánh",
+      "Tuyển sinh: FAQ ngành học cho phụ huynh + thí sinh",
+      "Tuyển sinh: Kịch bản tư vấn theo nhóm đối tượng",
+      "Tuyển sinh: Bài đăng fanpage, email chăm sóc thí sinh"
+    ],
+    "notes": [
+      "AI không thay cán bộ tư vấn, nhưng giúp chuẩn hóa giọng văn và tạo nhiều phiên bản nội dung.",
+      "Với tuyển sinh, có thể tạo phiên bản dành cho phụ huynh, học sinh lớp 12, và người đi làm.",
+      "Cảnh báo quan trọng: không cam kết quá mức về việc làm, thu nhập, học bổng trong nội dung AI tạo ra."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "student-support",
+    "image": null,
+    "wide": false
+  }
+]

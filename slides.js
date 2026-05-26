@@ -876,7 +876,7 @@ window.__slides=[
     "title": "Thực hành: Ứng dụng AI trong giảng dạy",
     "eyebrow": "Hands-on",
     "centerText": true,
-    "subtitle": "Chọn một case study — thử ngay với môn học bạn đang dạy",
+    "subtitle": "Chọn một case study — thử ngay với môn học các thầy/cô đang dạy",
     "bullets": [],
     "notes": [
       "Phiên thực hành khoảng 25–35 phút.",
@@ -990,9 +990,9 @@ window.__slides=[
     "title": "Chia sẻ và phản hồi",
     "subtitle": "Mỗi nhóm trình bày 3 phút — tập trung vào điều thật sự hữu ích và điều cần lưu ý.",
     "bullets": [
-      "Kết quả: Công cụ và prompt nào tạo ra đầu ra hữu ích nhất cho môn học của bạn?",
-      "Điều chỉnh: Bạn đã phải sửa gì? Phần nào AI làm tốt hơn bạn mong đợi?",
-      "Ứng dụng ngay: Bạn sẽ thử dùng điều gì trong tuần tới với lớp học thật?"
+      "Kết quả: Công cụ và prompt nào tạo ra đầu ra hữu ích nhất cho môn học của thầy/cô?",
+      "Điều chỉnh: Thầy/cô đã phải sửa gì? Phần nào AI làm tốt hơn mong đợi?",
+      "Ứng dụng ngay: Thầy/cô sẽ thử dùng điều gì trong tuần tới với lớp học thật?"
     ],
     "notes": [
       "Khuyến khích chia sẻ cả thất bại — 'AI tạo ra kết quả kỳ lạ' là bài học tốt cho cả nhóm.",
@@ -1238,107 +1238,8 @@ window.__slides=[
     "id": 35
   },
   {
-    "id": 36,
-    "section": "AI cho công việc cán bộ",
-    "layout": "chapter",
-    "sourceType": "Chapter",
-    "title": "AI cho công việc cán bộ",
-    "subtitle": "Giảm tải việc lặp lại, chuẩn hóa quy trình hành chính",
-    "bullets": [],
-    "notes": [
-      "Chuyển trọng tâm sang khối cán bộ phòng ban.",
-      "AI đặc biệt phù hợp với công việc nặng về văn bản: thông báo, FAQ, phân loại phản hồi, nội dung truyền thông.",
-      "Các nghiệp vụ hành chính thường lặp lại theo tuần/tháng — đây là điểm AI giúp tiết kiệm thời gian rõ nhất.",
-      "Nhắc người nghe: AI tạo bản nháp, con người vẫn phải kiểm tra căn cứ, quy chế, thẩm quyền, thời hạn."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "office-dashboard",
-    "image": null,
-    "wide": false
-  },
-  {
-    "id": 37,
-    "section": "AI cho công việc cán bộ",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "Nhóm việc AI hỗ trợ tốt cho cán bộ",
-    "subtitle": "",
-    "bullets": [
-      "Soạn thông báo / email hành chính",
-      "Tạo FAQ và kịch bản tư vấn",
-      "Tóm tắt văn bản dài thành điểm chính",
-      "Tạo checklist quy trình",
-      "Phân loại phản hồi sinh viên",
-      "Viết nội dung truyền thông fanpage"
-    ],
-    "notes": [
-      "Đây là những loại việc xuất hiện hằng tuần ở các phòng ban: Đào tạo, CTSV, Tuyển sinh, Hành chính.",
-      "AI giúp tạo bản nháp nhanh, cán bộ kiểm tra căn cứ pháp lý, đối tượng áp dụng, thời hạn trước khi phát hành.",
-      "Không cần phần mềm đặc biệt — ChatGPT, Claude, Gemini đều dùng được ngay."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "admin-tasks",
-    "image": null,
-    "wide": false
-  },
-  {
-    "id": 38,
-    "section": "AI cho công việc cán bộ",
-    "layout": "demo",
-    "sourceType": "Demo",
-    "title": "Case Phòng Đào tạo: từ thông báo đến nhiều định dạng",
-    "subtitle": "",
-    "bullets": [
-      "Đầu vào: thông tin học vụ",
-      "Đầu ra 1: thông báo chính thức",
-      "Đầu ra 2: bản ngắn cho Zalo/Facebook",
-      "Đầu ra 3: 10 câu hỏi FAQ + đáp án",
-      "Đầu ra 4: checklist 5 việc sinh viên cần làm"
-    ],
-    "notes": [
-      "Demo trực tiếp: dùng một thông báo học vụ thật (hoặc giả lập) làm đầu vào.",
-      "Một prompt sinh ra 4 định dạng phù hợp 4 kênh truyền thông khác nhau.",
-      "Nhấn mạnh người dùng phải kiểm tra thời hạn, đối tượng áp dụng, thẩm quyền ký trước khi phát hành.",
-      "Đây là minh họa rõ nhất về giá trị thực tế của AI với phòng ban."
-    ],
-    "prompt": "Dựa trên thông báo sau, hãy tạo 4 đầu ra:\n1. Bản thông báo chính thức\n2. Bản tóm tắt ngắn để đăng nhóm Zalo sinh viên\n3. 10 câu hỏi thường gặp và câu trả lời\n4. Checklist 5 việc sinh viên cần làm\n\nThông báo gốc:\n[Nhập nội dung thông báo]",
-    "tone": "blue",
-    "visual": "document-flow",
-    "hideImage": true,
-    "image": null,
-    "wide": false
-  },
-  {
-    "id": 39,
-    "section": "AI cho công việc cán bộ",
-    "layout": "split",
-    "sourceType": "Split Screen",
-    "title": "Case CTSV & Tuyển sinh",
-    "subtitle": "",
-    "bullets": [
-      "CTSV: Email phản hồi sinh viên đúng mực",
-      "CTSV: Kịch bản tư vấn ban đầu",
-      "CTSV: Phân loại vấn đề SV phản ánh",
-      "Tuyển sinh: FAQ ngành học cho phụ huynh + thí sinh",
-      "Tuyển sinh: Kịch bản tư vấn theo nhóm đối tượng",
-      "Tuyển sinh: Bài đăng fanpage, email chăm sóc thí sinh"
-    ],
-    "notes": [
-      "AI không thay cán bộ tư vấn, nhưng giúp chuẩn hóa giọng văn và tạo nhiều phiên bản nội dung.",
-      "Với tuyển sinh, có thể tạo phiên bản dành cho phụ huynh, học sinh lớp 12, và người đi làm.",
-      "Cảnh báo quan trọng: không cam kết quá mức về việc làm, thu nhập, học bổng trong nội dung AI tạo ra."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "student-support",
-    "image": null,
-    "wide": false
-  },
-  {
     "id": 40,
-    "section": "AI cho công việc cán bộ",
+    "section": "AI & AI Agent",
     "layout": "comparison",
     "sourceType": "Comparison",
     "title": "AI Agent & Skill là gì?",
@@ -1364,7 +1265,7 @@ window.__slides=[
   },
   {
     "id": 41,
-    "section": "AI cho công việc cán bộ",
+    "section": "AI & AI Agent",
     "layout": "demoWide",
     "sourceType": "Demo",
     "title": "Demo Skill: soạn thông báo học vụ",
@@ -1412,31 +1313,6 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 43,
-    "section": "Tổng kết",
-    "layout": "cta",
-    "sourceType": "CTA",
-    "title": "Sau buổi hôm nay, hãy bắt đầu từ đâu?",
-    "subtitle": "",
-    "bullets": [
-      "Chọn 3 việc lặp lại hằng tuần",
-      "Viết prompt theo công thức 6 phần",
-      "Dùng AI tạo bản nháp",
-      "Yêu cầu AI tự rà soát",
-      "Chỉnh thành mẫu dùng lại"
-    ],
-    "notes": [
-      "Đưa lời khuyên hành động cụ thể.",
-      "Không khuyến khích người nghe cố dùng AI cho mọi việc ngay lập tức.",
-      "Bắt đầu nhỏ, đo hiệu quả, rồi mở rộng."
-    ],
-    "prompt": "",
-    "tone": "success",
-    "visual": "",
-    "image": null,
-    "wide": false
-  },
-  {
     "id": 44,
     "section": "Tổng kết",
     "layout": "cta",
@@ -1444,8 +1320,8 @@ window.__slides=[
     "title": "Q&A",
     "subtitle": "",
     "bullets": [
-      "Hãy chia sẻ một công việc thật bạn muốn giao cho AI",
-      "Cùng biến nó thành prompt hoặc Skill"
+      "Hãy chia sẻ một công việc mà thầy/cô muốn giao cho AI",
+      "Biến nó thành prompt hoặc Skill"
     ],
     "notes": [
       "Nếu còn thời gian, lấy 1–2 tình huống thật từ người nghe và demo tạo prompt ngay.",

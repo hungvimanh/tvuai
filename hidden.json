@@ -1,0 +1,101 @@
+[
+    {
+    "id": 36,
+    "section": "AI & AI Agent",
+    "layout": "chapter",
+    "sourceType": "Chapter",
+    "title": "AI & AI Agent",
+    "subtitle": "Giảm tải việc lặp lại, chuẩn hóa quy trình hành chính",
+    "bullets": [],
+    "notes": [
+      "Chuyển trọng tâm sang khối cán bộ phòng ban.",
+      "AI đặc biệt phù hợp với công việc nặng về văn bản: thông báo, FAQ, phân loại phản hồi, nội dung truyền thông.",
+      "Các nghiệp vụ hành chính thường lặp lại theo tuần/tháng — đây là điểm AI giúp tiết kiệm thời gian rõ nhất.",
+      "Nhắc người nghe: AI tạo bản nháp, con người vẫn phải kiểm tra căn cứ, quy chế, thẩm quyền, thời hạn."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "office-dashboard",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 37,
+    "section": "AI & AI Agent",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "Nhóm việc AI hỗ trợ tốt cho cán bộ",
+    "subtitle": "",
+    "bullets": [
+      "Soạn thông báo / email hành chính",
+      "Tạo FAQ và kịch bản tư vấn",
+      "Tóm tắt văn bản dài thành điểm chính",
+      "Tạo checklist quy trình",
+      "Phân loại phản hồi sinh viên",
+      "Viết nội dung truyền thông fanpage"
+    ],
+    "notes": [
+      "Đây là những loại việc xuất hiện hằng tuần ở các phòng ban: Đào tạo, CTSV, Tuyển sinh, Hành chính.",
+      "AI giúp tạo bản nháp nhanh, cán bộ kiểm tra căn cứ pháp lý, đối tượng áp dụng, thời hạn trước khi phát hành.",
+      "Không cần phần mềm đặc biệt — ChatGPT, Claude, Gemini đều dùng được ngay."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "admin-tasks",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 38,
+    "section": "AI & AI Agent",
+    "layout": "demo",
+    "sourceType": "Demo",
+    "title": "Case Phòng Đào tạo: từ thông báo đến nhiều định dạng",
+    "subtitle": "",
+    "bullets": [
+      "Đầu vào: thông tin học vụ",
+      "Đầu ra 1: thông báo chính thức",
+      "Đầu ra 2: bản ngắn cho Zalo/Facebook",
+      "Đầu ra 3: 10 câu hỏi FAQ + đáp án",
+      "Đầu ra 4: checklist 5 việc sinh viên cần làm"
+    ],
+    "notes": [
+      "Demo trực tiếp: dùng một thông báo học vụ thật (hoặc giả lập) làm đầu vào.",
+      "Một prompt sinh ra 4 định dạng phù hợp 4 kênh truyền thông khác nhau.",
+      "Nhấn mạnh người dùng phải kiểm tra thời hạn, đối tượng áp dụng, thẩm quyền ký trước khi phát hành.",
+      "Đây là minh họa rõ nhất về giá trị thực tế của AI với phòng ban."
+    ],
+    "prompt": "Dựa trên thông báo sau, hãy tạo 4 đầu ra:\n1. Bản thông báo chính thức\n2. Bản tóm tắt ngắn để đăng nhóm Zalo sinh viên\n3. 10 câu hỏi thường gặp và câu trả lời\n4. Checklist 5 việc sinh viên cần làm\n\nThông báo gốc:\n[Nhập nội dung thông báo]",
+    "tone": "blue",
+    "visual": "document-flow",
+    "hideImage": true,
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 39,
+    "section": "AI & AI Agent",
+    "layout": "split",
+    "sourceType": "Split Screen",
+    "title": "Case CTSV & Tuyển sinh",
+    "subtitle": "",
+    "bullets": [
+      "CTSV: Email phản hồi sinh viên đúng mực",
+      "CTSV: Kịch bản tư vấn ban đầu",
+      "CTSV: Phân loại vấn đề SV phản ánh",
+      "Tuyển sinh: FAQ ngành học cho phụ huynh + thí sinh",
+      "Tuyển sinh: Kịch bản tư vấn theo nhóm đối tượng",
+      "Tuyển sinh: Bài đăng fanpage, email chăm sóc thí sinh"
+    ],
+    "notes": [
+      "AI không thay cán bộ tư vấn, nhưng giúp chuẩn hóa giọng văn và tạo nhiều phiên bản nội dung.",
+      "Với tuyển sinh, có thể tạo phiên bản dành cho phụ huynh, học sinh lớp 12, và người đi làm.",
+      "Cảnh báo quan trọng: không cam kết quá mức về việc làm, thu nhập, học bổng trong nội dung AI tạo ra."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "student-support",
+    "image": null,
+    "wide": false
+  }
+]

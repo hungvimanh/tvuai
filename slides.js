@@ -279,10 +279,10 @@ window.__slides=[
     "visual": "prompt-template",
     "hideImage": true,
     "wide": false,
-    "id": "11b"
+    "id": 12
   },
   {
-    "id": 12,
+    "id": 13,
     "section": "Prompt và cách giao việc cho AI",
     "layout": "featureGrid",
     "sourceType": "List",
@@ -326,7 +326,7 @@ window.__slides=[
     "visual": "teaching-cycle",
     "hideImage": true,
     "wide": false,
-    "id": 13
+    "id": 14
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -349,7 +349,7 @@ window.__slides=[
     "image": null,
     "wide": false,
     "grid": "three",
-    "id": 14
+    "id": 15
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -384,7 +384,7 @@ window.__slides=[
       "deck_images/canva.png",
       "deck_images/gamma.png"
     ],
-    "id": 15
+    "id": 16
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -419,7 +419,7 @@ window.__slides=[
       "deck_images/canva.png",
       "deck_images/gamma.png"
     ],
-    "id": "15b"
+    "id": 17
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -437,7 +437,7 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": "15c"
+    "id": 18
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -461,7 +461,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": "15d"
+    "id": 19
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -484,7 +484,7 @@ window.__slides=[
     "visual": "doc-analysis",
     "hideImage": true,
     "wide": false,
-    "id": "15e"
+    "id": 20
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -506,7 +506,7 @@ window.__slides=[
     "visual": "activity-ideas",
     "hideImage": true,
     "wide": false,
-    "id": "15f"
+    "id": 21
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -524,7 +524,7 @@ window.__slides=[
     "visual": "notebooklm",
     "image": { "src": "deck_images/notebooklm-tool.png", "alt": "Google NotebookLM", "fit": "contain" },
     "wide": false,
-    "id": 17
+    "id": 22
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -549,7 +549,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 18
+    "id": 23
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -571,7 +571,7 @@ window.__slides=[
     "visual": "notebooklm-chat",
     "hideImage": true,
     "wide": false,
-    "id": 19
+    "id": 24
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -594,7 +594,7 @@ window.__slides=[
     "visual": "notebooklm-roadmap",
     "hideImage": true,
     "wide": false,
-    "id": 20
+    "id": 25
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -617,7 +617,7 @@ window.__slides=[
     "visual": "notebooklm-slides",
     "hideImage": true,
     "wide": false,
-    "id": 21
+    "id": 26
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -639,7 +639,7 @@ window.__slides=[
     "visual": "notebooklm-audio",
     "hideImage": true,
     "wide": false,
-    "id": 22
+    "id": 27
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -661,7 +661,7 @@ window.__slides=[
     "visual": "notebooklm-questions",
     "hideImage": true,
     "wide": false,
-    "id": 23
+    "id": 28
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -684,7 +684,7 @@ window.__slides=[
     "image": null,
     "wide": false,
     "grid": "three",
-    "id": 24
+    "id": 29
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -702,7 +702,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/canva.png", "alt": "Canva AI", "fit": "contain" },
     "wide": false,
-    "id": "24b"
+    "id": 30
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -727,13 +727,13 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": "24c"
+    "id": 31
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo Canva: Tạo slide bài giảng",
+    "title": "Canva: Tạo slide bài giảng",
     "subtitle": "Từ chủ đề đến bộ slide hoàn chỉnh trong vài phút bằng Magic Design và Magic Write.",
     "bullets": [
       "Bước 1: Presentations → 'Create with AI' hoặc Magic Design",
@@ -752,13 +752,13 @@ window.__slides=[
     "visual": "canva-slide",
     "hideImage": true,
     "wide": false,
-    "id": "24d"
+    "id": 32
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo Canva: Infographic và học liệu",
+    "title": "Canva: Infographic và học liệu",
     "subtitle": "Tạo tóm tắt chương, sơ đồ khái niệm và hướng dẫn quy trình bằng template AI.",
     "bullets": [
       "Infographic: tóm tắt chương, sơ đồ khái niệm, timeline sự kiện, bảng so sánh",
@@ -775,7 +775,7 @@ window.__slides=[
     "visual": "canva-infographic",
     "hideImage": true,
     "wide": false,
-    "id": "24e"
+    "id": 33
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -793,7 +793,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/gamma.png", "alt": "Gamma AI", "fit": "contain" },
     "wide": false,
-    "id": "24f"
+    "id": 34
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -818,13 +818,13 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": "24g"
+    "id": 35
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo Gamma: Từ prompt thành presentation",
+    "title": "Gamma: Từ prompt thành presentation",
     "subtitle": "Mô tả chủ đề và yêu cầu — Gamma tạo bộ slide hoàn chỉnh trong dưới 1 phút.",
     "bullets": [
       "Bước 1: gamma.app → Create → Generate",
@@ -843,13 +843,13 @@ window.__slides=[
     "visual": "gamma-generate",
     "hideImage": true,
     "wide": false,
-    "id": "24h"
+    "id": 36
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo Gamma: Chuyển tài liệu thành slide",
+    "title": "Gamma: Chuyển tài liệu thành slide",
     "subtitle": "Upload đề cương, giáo trình hoặc báo cáo — Gamma phân tích và tạo slide tự động.",
     "bullets": [
       "Import PDF/DOCX: Gamma đọc cấu trúc và tạo slide theo từng chương/mục",
@@ -867,7 +867,7 @@ window.__slides=[
     "visual": "gamma-import",
     "hideImage": true,
     "wide": false,
-    "id": "24i"
+    "id": 37
   },
   {
     "section": "Phiên thực hành",
@@ -888,18 +888,18 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": "P0"
+    "id": 38
   },
   {
     "section": "Phiên thực hành",
     "layout": "featureGrid",
     "sourceType": "Feature Grid",
     "title": "3 case study thực hành",
-    "subtitle": "Mỗi nhóm chọn 1 case — dùng môn học thật, tài liệu thật của bản thân.",
+    "subtitle": "Chọn 1 case — sử dụng tài liệu, giáo trình môn học mà các thầy cô đang giảng dạy.",
     "bullets": [
       "Case 1 — AI đa năng: Soạn giáo án 90 phút cho một buổi học sắp tới bằng Gemini, Claude hoặc ChatGPT",
       "Case 2 — NotebookLM: Upload đề cương hoặc giáo trình, tạo tóm tắt, câu hỏi ôn tập và lộ trình học tập",
-      "Case 3 — Canva / Gamma: Tạo bộ slide bài giảng 6–8 trang từ chủ đề của môn học đang dạy"
+      "Case 3 — Canva / Gamma: Tạo bộ slide bài giảng 15-20 trang từ chủ đề của môn học đang dạy"
     ],
     "notes": [
       "Nhắc người tham gia chuẩn bị: tên môn, chủ đề một buổi học, và nếu có — file đề cương PDF/DOCX.",
@@ -912,7 +912,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": "P1"
+    "id": 39
   },
   {
     "section": "Phiên thực hành",
@@ -935,7 +935,7 @@ window.__slides=[
     "visual": "case1-lesson",
     "hideImage": true,
     "wide": false,
-    "id": "P2"
+    "id": 40
   },
   {
     "section": "Phiên thực hành",
@@ -958,7 +958,7 @@ window.__slides=[
     "visual": "case2-notebooklm",
     "hideImage": true,
     "wide": false,
-    "id": "P3"
+    "id": 41
   },
   {
     "section": "Phiên thực hành",
@@ -981,14 +981,14 @@ window.__slides=[
     "visual": "case3-slides",
     "hideImage": true,
     "wide": false,
-    "id": "P4"
+    "id": 42
   },
   {
     "section": "Phiên thực hành",
     "layout": "featureGrid",
     "sourceType": "Feature Grid",
     "title": "Chia sẻ và phản hồi",
-    "subtitle": "Mỗi nhóm trình bày 3 phút — tập trung vào điều thật sự hữu ích và điều cần lưu ý.",
+    "subtitle": "",
     "bullets": [
       "Kết quả: Công cụ và prompt nào tạo ra đầu ra hữu ích nhất cho môn học của thầy/cô?",
       "Điều chỉnh: Thầy/cô đã phải sửa gì? Phần nào AI làm tốt hơn mong đợi?",
@@ -1005,289 +1005,10 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": "P5"
+    "id": 43
   },
   {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "chapter",
-    "sourceType": "Chapter",
-    "title": "Ứng dụng AI trong nghiên cứu khoa học",
-    "eyebrow": "Phần 2",
-    "centerText": true,
-    "subtitle": "Từ ý tưởng, tài liệu đến bản nháp học thuật có kiểm soát",
-    "bullets": [],
-    "notes": [
-      "Bổ sung rõ phần NCKH cho giảng viên.",
-      "Nhấn mạnh AI hỗ trợ quá trình tư duy và viết, không thay thế dữ liệu, phương pháp, trích dẫn và trách nhiệm học thuật."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "research",
-    "hideImage": true,
-    "wide": false,
-    "id": 26
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "featureGrid",
-    "sourceType": "Timeline",
-    "title": "AI hỗ trợ bước nào trong NCKH?",
-    "subtitle": "Dùng AI như trợ lý nghiên cứu, không dùng như người viết thay hoặc tạo nguồn thay.",
-    "bullets": [
-      "Thiết kế nghiên cứu: ý tưởng, câu hỏi nghiên cứu, đề cương",
-      "Làm việc với tài liệu: tìm nguồn, tóm tắt, so sánh, literature matrix",
-      "Viết và công cụ: abstract, introduction, bảng hỏi, phỏng vấn"
-    ],
-    "notes": [
-      "Trình bày như một workflow nghiên cứu.",
-      "Nói rõ mỗi bước đều cần giảng viên kiểm tra và quyết định."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "research-flow",
-    "image": null,
-    "wide": false,
-    "grid": "three",
-    "id": 27
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "6 việc AI có thể làm cho NCKH",
-    "subtitle": "Gom các case study vào một slide để dành thời lượng cho công cụ và demo.",
-    "bullets": [
-      "Tinh chỉnh ý tưởng: thu hẹp chủ đề thành câu hỏi nghiên cứu khả thi",
-      "Lập đề cương: mục tiêu, phương pháp, dữ liệu, cấu trúc bài viết",
-      "Tóm tắt tài liệu: mục tiêu, mẫu, phương pháp, kết quả, hạn chế",
-      "Literature review: tổng hợp theo chủ đề từ nguồn thật đã kiểm chứng",
-      "Abstract & introduction: chỉnh mạch lập luận, văn phong, độ dài",
-      "Bảng hỏi/phỏng vấn: tạo bản nháp câu hỏi, kiểm tra tránh dẫn dắt"
-    ],
-    "notes": [
-      "Slide này thay cho các slide case lẻ cũ.",
-      "Nhấn mạnh ranh giới: AI giúp tổ chức và diễn đạt, không tạo dữ liệu, không tạo trích dẫn giả."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "research-cases",
-    "image": null,
-    "wide": false,
-    "grid": "three",
-    "id": 28
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "chapter",
-    "sourceType": "Chapter",
-    "title": "Công cụ 1: Perplexity",
-    "subtitle": "Tìm kiếm có nguồn, so sánh tài liệu, dựng bức tranh ban đầu về chủ đề",
-    "bullets": [],
-    "notes": [
-      "Giới thiệu Perplexity như công cụ search có trích nguồn, phù hợp bước khám phá ban đầu.",
-      "Không coi Perplexity là nguồn học thuật cuối cùng; cần mở bài gốc, kiểm tra tạp chí, tác giả, năm công bố."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "perplexity",
-    "image": null,
-    "wide": false,
-    "id": 29
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "Perplexity dùng để làm gì?",
-    "subtitle": "Phù hợp cho bước định hướng và rà soát nguồn, không thay thế thư viện học thuật.",
-    "bullets": [
-      "Search có nguồn: trả lời kèm đường dẫn để kiểm tra lại",
-      "Deep Research: tổng hợp nhiều nguồn thành báo cáo ban đầu",
-      "Collections/Spaces: lưu nhóm nguồn theo chủ đề nghiên cứu"
-    ],
-    "notes": [
-      "Giải thích ngắn gọn 3 tình huống dùng.",
-      "Nhắc người nghe ưu tiên mở nguồn gốc và kiểm tra DOI/tạp chí khi dùng cho bài báo."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "perplexity-features",
-    "image": null,
-    "wide": false,
-    "grid": "three",
-    "id": 30
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "demo",
-    "sourceType": "Demo",
-    "title": "Demo Perplexity 1: tìm và so sánh nguồn",
-    "subtitle": "Dùng để có cái nhìn ban đầu, sau đó mở từng nguồn để kiểm chứng.",
-    "bullets": [
-      "Chủ đề: một vấn đề nghiên cứu cụ thể",
-      "Đầu ra: bảng so sánh phương pháp, mẫu, kết quả",
-      "Kiểm chứng: mở nguồn gốc, lưu DOI/link, loại bỏ nguồn yếu"
-    ],
-    "notes": [
-      "Demo trực tiếp nếu có internet: nhập prompt, mở 1-2 nguồn Perplexity trích dẫn.",
-      "Nhấn mạnh không copy nguyên phần tổng hợp vào literature review."
-    ],
-    "prompt": "Tôi đang tìm tài liệu về chủ đề: [chủ đề nghiên cứu].\n\nHãy tìm các nghiên cứu gần đây và lập bảng gồm:\n- Tác giả/năm\n- Mục tiêu nghiên cứu\n- Phương pháp\n- Mẫu/dữ liệu\n- Kết quả chính\n- Hạn chế\n- Đường dẫn nguồn để tôi kiểm tra\n\nƯu tiên bài báo học thuật, báo cáo chính thức; không dùng blog cá nhân nếu có nguồn tốt hơn.",
-    "tone": "blue",
-    "visual": "perplexity-search",
-    "hideImage": true,
-    "image": {
-      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-      "alt": "Minh họa tìm kiếm và so sánh tài liệu nghiên cứu"
-    },
-    "wide": false,
-    "id": 31
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "demo",
-    "sourceType": "Demo",
-    "title": "Demo Perplexity 2: Deep Research → literature matrix",
-    "subtitle": "Từ báo cáo tổng hợp ban đầu sang ma trận tài liệu để giảng viên kiểm tra.",
-    "bullets": [
-      "Bước 1: yêu cầu báo cáo tổng quan theo nhóm chủ đề",
-      "Bước 2: chuyển thành literature matrix",
-      "Bước 3: đánh dấu nguồn cần đọc kỹ và nguồn chưa đủ tin cậy"
-    ],
-    "notes": [
-      "Nên demo tư duy quy trình: search → matrix → đọc nguồn gốc → viết bằng lập luận của mình.",
-      "Cảnh báo AI có thể hiểu sai bài báo; phần matrix chỉ là bản nháp để đọc nhanh."
-    ],
-    "prompt": "Từ các nguồn đã tìm được, hãy tạo literature matrix gồm các cột:\n1. Nguồn\n2. Câu hỏi/mục tiêu nghiên cứu\n3. Lý thuyết hoặc khung phân tích\n4. Phương pháp\n5. Kết quả chính\n6. Hạn chế\n7. Liên quan đến đề tài của tôi như thế nào\n8. Mức cần đọc kỹ: Cao/Trung bình/Thấp\n\nKhông viết literature review hoàn chỉnh ở bước này.",
-    "tone": "blue",
-    "visual": "perplexity-deep-research",
-    "hideImage": true,
-    "image": {
-      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-      "alt": "Minh họa xây dựng literature matrix"
-    },
-    "wide": false,
-    "id": 32
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "chapter",
-    "sourceType": "Chapter",
-    "title": "Công cụ 2: ChatGPT cho NCKH",
-    "subtitle": "Chỉnh lập luận, văn phong học thuật và công cụ nghiên cứu — dựa trên dữ liệu thật",
-    "bullets": [],
-    "notes": [
-      "Giới thiệu ChatGPT phù hợp cho soạn nháp, chỉnh văn phong, phản biện cấu trúc và tạo công cụ nghiên cứu.",
-      "Nhắc người nghe không yêu cầu ChatGPT tạo nguồn hoặc kết quả nghiên cứu nếu không có dữ liệu."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "chatgpt-research",
-    "image": null,
-    "wide": false,
-    "id": 33
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "demo",
-    "sourceType": "Demo",
-    "title": "Demo ChatGPT: chỉnh abstract, lit review, bảng hỏi",
-    "subtitle": "Dùng ChatGPT để cải thiện bản nháp, không thêm dữ liệu hoặc kết luận mới.",
-    "bullets": [
-      "Abstract: làm rõ vấn đề, phương pháp, kết quả, đóng góp",
-      "Literature review: tổ chức lại lập luận từ ghi chú nguồn thật",
-      "Bảng hỏi/phỏng vấn: tạo bản nháp và rà câu hỏi dẫn dắt"
-    ],
-    "notes": [
-      "Có thể chọn một trong ba demo tùy thời gian.",
-      "Nếu demo abstract, nên dùng đoạn giả lập hoặc nội dung không nhạy cảm.",
-      "Nhấn mạnh yêu cầu quan trọng: không thêm số liệu, kết quả, trích dẫn mới."
-    ],
-    "prompt": "Hãy chỉnh sửa abstract sau cho mạch lạc, học thuật và ngắn gọn hơn.\n\nYêu cầu bắt buộc:\n- Giữ nguyên ý nghĩa, phương pháp và kết quả nghiên cứu\n- Không thêm số liệu, trích dẫn hoặc kết luận mới\n- Độ dài khoảng 180–220 từ\n- Sau bản sửa, liệt kê 5 điểm đã cải thiện\n- Đánh dấu chỗ nào còn thiếu thông tin để tôi bổ sung\n\nAbstract:\n[Nhập nội dung abstract]",
-    "tone": "blue",
-    "visual": "chatgpt-writing",
-    "hideImage": true,
-    "image": {
-      "src": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=80",
-      "alt": "Minh họa chỉnh sửa bài viết học thuật bằng AI"
-    },
-    "wide": false,
-    "id": 34
-  },
-  {
-    "section": "AI cho nghiên cứu khoa học",
-    "layout": "featureGrid",
-    "sourceType": "List",
-    "title": "Ranh giới khi dùng AI trong NCKH",
-    "subtitle": "AI hỗ trợ nghiên cứu, nhưng trách nhiệm học thuật vẫn thuộc về người nghiên cứu.",
-    "bullets": [
-      "Không bịa nguồn: tài liệu tham khảo phải kiểm chứng được",
-      "Không thay dữ liệu thật: AI không tạo kết quả nghiên cứu",
-      "Không thay trách nhiệm: giảng viên quyết định kết luận và khai báo theo quy định"
-    ],
-    "notes": [
-      "Kết thúc phần NCKH bằng nguyên tắc trách nhiệm.",
-      "Có thể nhắc mỗi trường/tạp chí có quy định riêng về việc khai báo sử dụng AI."
-    ],
-    "prompt": "",
-    "tone": "warn",
-    "visual": "research-ethics",
-    "image": null,
-    "wide": false,
-    "grid": "three",
-    "id": 35
-  },
-  {
-    "id": 40,
-    "section": "AI & AI Agent",
-    "layout": "comparison",
-    "sourceType": "Comparison",
-    "title": "AI Agent & Skill là gì?",
-    "subtitle": "",
-    "bullets": [
-      "Hỏi một câu — nhận một câu trả lời",
-      "Phù hợp việc đơn lẻ, ngắn",
-      "Phải giao việc lại từ đầu mỗi lần",
-      "Nhận mục tiêu, chia bước, theo dõi tiến độ",
-      "Phù hợp quy trình nhiều bước, lặp lại",
-      "Skill = đóng gói quy trình theo chuẩn của mình, dùng lại"
-    ],
-    "notes": [
-      "Giải thích dễ hiểu: Skill giống mẫu biểu hành chính nội bộ nhưng dành cho AI.",
-      "Khi có Skill, lần sau chỉ cần đưa dữ liệu mới vào, không phải viết lại toàn bộ prompt.",
-      "Vẫn cần con người phê duyệt kết quả cuối cùng — AI không ký thay người."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "agent-brain-hands",
-    "image": null,
-    "wide": false
-  },
-  {
-    "id": 41,
-    "section": "AI & AI Agent",
-    "layout": "demoWide",
-    "sourceType": "Demo",
-    "title": "Demo Skill: soạn thông báo học vụ",
-    "subtitle": "",
-    "bullets": [
-      "Skill: Soạn thông báo học vụ",
-      "Đầu vào: đối tượng, nội dung, thời hạn, kênh liên hệ",
-      "Đầu ra: thông báo chính thức, bản ngắn, FAQ"
-    ],
-    "notes": [
-      "Đây là demo chính phần Skill.",
-      "Cho thấy khi đóng gói quy trình, lần sau chỉ cần đưa dữ liệu mới."
-    ],
-    "prompt": "Tên Skill: Soạn thông báo học vụ\n\nMục đích:\nTạo thông báo học vụ rõ ràng, trang trọng, dễ hiểu cho sinh viên.\n\nKhi dùng:\nKhi cần thông báo về đăng ký học phần, lịch thi, học phí, lịch học, thủ tục đào tạo.\n\nĐầu vào cần có:\n- Đối tượng nhận thông báo\n- Nội dung chính\n- Thời gian/thời hạn\n- Hình thức thực hiện\n- Đơn vị liên hệ\n- Lưu ý quan trọng\n\nQuy trình:\n1. Kiểm tra thông tin đầu vào có thiếu gì không\n2. Viết bản thông báo chính thức\n3. Tạo bản tóm tắt ngắn cho kênh Zalo/Facebook\n4. Tạo FAQ dự kiến\n5. Tạo checklist việc sinh viên cần làm\n6. Rà soát rủi ro hiểu nhầm\n\nTiêu chuẩn chất lượng:\n- Đúng đối tượng\n- Rõ thời hạn\n- Có hành động cụ thể người đọc cần làm\n- Giọng văn trang trọng, dễ hiểu\n\nKhông được làm:\n- Không tự tạo quy định nếu chưa được cung cấp\n- Không thêm thông tin không có trong đầu vào\n- Không dùng dữ liệu cá nhân sinh viên",
-    "tone": "blue",
-    "visual": "skill-card",
-    "hideImage": true,
-    "image": null,
-    "wide": true
-  },
-  {
-    "id": 42,
+    "id": 44,
     "section": "Tổng kết",
     "layout": "principles",
     "sourceType": "List",
@@ -1313,7 +1034,28 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 44,
+    "id": 45,
+    "section": "Tổng kết",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "Buổi tiếp theo: AI trong nghiên cứu khoa học",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [
+      "Slide chỉ hiển thị ảnh teaser cho phần 2 buổi tiếp theo."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 900,
+    "image": {
+      "src": "deck_images/p2.png",
+      "alt": "6 AI Agent cho quy trình nghiên cứu khoa học toàn diện",
+      "fit": "contain"
+    },
+    "wide": false
+  },
+  {
+    "id": 46,
     "section": "Tổng kết",
     "layout": "cta",
     "sourceType": "CTA",

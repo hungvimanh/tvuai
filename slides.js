@@ -558,19 +558,19 @@ window.__slides=[
     "layout": "featureGrid",
     "sourceType": "Feature Grid",
     "title": "Bộ công cụ AI dành cho giảng viên",
-    "subtitle": "Ba nhóm công cụ — đa năng, làm việc với tài liệu, thiết kế & trình bày.",
+    "subtitle": "Chọn công cụ theo việc cần làm: soạn thảo, phân tích tài liệu, thiết kế hoặc tạo slide.",
     "bullets": [
-      "Gemini: Trợ lý đa năng Google — soạn thảo, phân tích, dịch, tóm tắt và tạo ý tưởng",
-      "Claude: Phân tích sâu & học thuật — xử lý tài liệu dài, lập luận, văn phong học thuật",
-      "ChatGPT: Đa năng phổ biến — soạn nội dung, lên kế hoạch, tạo hoạt động học tập",
-      "NotebookLM: Làm việc với tài liệu — hỏi đáp, tóm tắt, tạo slide từ nguồn đã upload",
-      "Canva AI: Thiết kế trực quan — slide, infographic, poster bài giảng nhanh và đẹp",
-      "Gamma: Trình bày thông minh — tạo presentation từ văn bản hoặc prompt trong vài giây"
+      "Gemini: Tích hợp Google Workspace, tiếng Việt tốt — soạn thảo, phân tích, tóm tắt; miễn phí với tài khoản Google",
+      "Claude: Xử lý văn bản dài, lập luận sâu — phù hợp phân tích tài liệu và viết học thuật; có gói miễn phí cơ bản",
+      "ChatGPT: Đa năng phổ biến, kho GPT chuyên dụng — soạn nội dung, lên kế hoạch, tạo hình ảnh; gói Plus $20/tháng",
+      "NotebookLM: Bám tài liệu đã upload — hỏi đáp có nguồn, tóm tắt, tạo slide/audio từ giáo trình; miễn phí",
+      "Canva AI: Thiết kế trực quan — slide, infographic, poster bài giảng; Canva Education miễn phí cho giảng viên",
+      "Gamma: Tạo presentation đẹp từ prompt hoặc tài liệu — xuất PowerPoint/PDF; gói miễn phí có giới hạn"
     ],
     "notes": [
-      "Chia thành 3 nhóm để người nghe dễ nhớ: đa năng, tài liệu, thiết kế.",
-      "Gemini, Claude, ChatGPT có thể dùng thay thế nhau tùy tài khoản đã có sẵn.",
-      "NotebookLM phù hợp khi đã có tài liệu; Canva/Gamma phù hợp khi cần sản phẩm trực quan nhanh."
+      "Gộp phần tổng quan và so sánh để tránh lặp nội dung.",
+      "Không cần dùng tất cả — chọn 1–2 công cụ phù hợp với thói quen và thiết bị đang có.",
+      "Canva Education: đăng ký miễn phí tại canva.com/education bằng email trường."
     ],
     "prompt": "",
     "tone": "blue",
@@ -590,41 +590,6 @@ window.__slides=[
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "So sánh công cụ AI trong giảng dạy",
-    "subtitle": "Mỗi nhóm công cụ phù hợp với tác vụ khác nhau — chọn đúng để đạt hiệu quả cao nhất.",
-    "bullets": [
-      "Gemini: Tích hợp Google Workspace, tiếng Việt tốt, dùng kèm Drive / Docs / Gmail — miễn phí",
-      "Claude: Xử lý văn bản dài, lập luận sâu, phù hợp phân tích và viết học thuật — gói miễn phí cơ bản",
-      "ChatGPT: Phổ biến, kho GPT chuyên dụng, tạo hình ảnh DALL-E — gói Plus $20/tháng",
-      "NotebookLM: Bám tài liệu đã upload, trả lời có nguồn, tạo slide và audio từ giáo trình — miễn phí",
-      "Canva AI: Magic Design, thiết kế không cần đồ họa — gói Education miễn phí cho giảng viên",
-      "Gamma: Tạo presentation đẹp từ prompt hoặc tài liệu, xuất PowerPoint / PDF — gói miễn phí có giới hạn"
-    ],
-    "notes": [
-      "Không cần dùng tất cả — chọn 1–2 công cụ phù hợp với thói quen và thiết bị đang có.",
-      "Cột Gemini và NotebookLM: miễn phí hoàn toàn với tài khoản Google.",
-      "Canva Education: đăng ký miễn phí tại canva.com/education bằng email trường."
-    ],
-    "prompt": "",
-    "tone": "blue",
-    "visual": "tool-comparison",
-    "hideImage": true,
-    "wide": false,
-    "grid": "three",
-    "images": [
-      "deck_images/gemini.png",
-      "deck_images/claude.png",
-      "deck_images/chatgpt.png",
-      "deck_images/notebooklm.png",
-      "deck_images/canva.png",
-      "deck_images/gamma.png"
-    ],
-    "id": 32
-  },
-  {
-    "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "chapter",
     "sourceType": "Chapter",
     "title": "Công cụ AI đa năng",
@@ -639,7 +604,7 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": 33
+    "id": 32
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -663,13 +628,18 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 34
+    "images": [
+      "deck_images/gemini.png",
+      "deck_images/claude.png",
+      "deck_images/chatgpt.png"
+    ],
+    "id": 33
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo: Phân tích và tóm tắt tài liệu giảng dạy",
+    "title": "Phân tích và tóm tắt tài liệu giảng dạy",
     "subtitle": "Dùng Gemini, Claude hoặc ChatGPT để xử lý nhanh giáo trình, đề cương hoặc bài báo.",
     "bullets": [
       "Đầu vào: dán văn bản hoặc upload file PDF/DOCX trực tiếp vào chat",
@@ -686,13 +656,13 @@ window.__slides=[
     "visual": "doc-analysis",
     "hideImage": true,
     "wide": false,
-    "id": 35
+    "id": 34
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "demo",
     "sourceType": "Demo",
-    "title": "Demo: Lên ý tưởng hoạt động học tập",
+    "title": "Lên ý tưởng hoạt động học tập",
     "subtitle": "Từ chủ đề và đối tượng sinh viên, AI đề xuất hoạt động đa dạng và câu hỏi kích thích tư duy.",
     "bullets": [
       "Đầu vào: chủ đề, ngành, năm học, thời lượng buổi học",
@@ -708,7 +678,7 @@ window.__slides=[
     "visual": "activity-ideas",
     "hideImage": true,
     "wide": false,
-    "id": 36
+    "id": 35
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -726,7 +696,7 @@ window.__slides=[
     "visual": "notebooklm",
     "image": { "src": "deck_images/notebooklm-tool.png", "alt": "Google NotebookLM", "fit": "contain" },
     "wide": false,
-    "id": 37
+    "id": 36
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -751,7 +721,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 38
+    "id": 37
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -773,7 +743,7 @@ window.__slides=[
     "visual": "notebooklm-chat",
     "hideImage": true,
     "wide": false,
-    "id": 39
+    "id": 38
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -796,7 +766,7 @@ window.__slides=[
     "visual": "notebooklm-roadmap",
     "hideImage": true,
     "wide": false,
-    "id": 40
+    "id": 39
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -819,7 +789,7 @@ window.__slides=[
     "visual": "notebooklm-slides",
     "hideImage": true,
     "wide": false,
-    "id": 41
+    "id": 40
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -841,7 +811,7 @@ window.__slides=[
     "visual": "notebooklm-audio",
     "hideImage": true,
     "wide": false,
-    "id": 42
+    "id": 41
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -863,7 +833,7 @@ window.__slides=[
     "visual": "notebooklm-questions",
     "hideImage": true,
     "wide": false,
-    "id": 43
+    "id": 42
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -886,7 +856,7 @@ window.__slides=[
     "image": null,
     "wide": false,
     "grid": "three",
-    "id": 44
+    "id": 43
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -904,7 +874,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/canva.png", "alt": "Canva AI", "fit": "contain" },
     "wide": false,
-    "id": 45
+    "id": 44
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -929,7 +899,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 46
+    "id": 45
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -954,7 +924,7 @@ window.__slides=[
     "visual": "canva-slide",
     "hideImage": true,
     "wide": false,
-    "id": 47
+    "id": 46
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -977,7 +947,7 @@ window.__slides=[
     "visual": "canva-infographic",
     "hideImage": true,
     "wide": false,
-    "id": 48
+    "id": 47
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -995,7 +965,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/gamma.png", "alt": "Gamma AI", "fit": "contain" },
     "wide": false,
-    "id": 49
+    "id": 48
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -1020,7 +990,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 50
+    "id": 49
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -1045,7 +1015,7 @@ window.__slides=[
     "visual": "gamma-generate",
     "hideImage": true,
     "wide": false,
-    "id": 51
+    "id": 50
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -1069,7 +1039,7 @@ window.__slides=[
     "visual": "gamma-import",
     "hideImage": true,
     "wide": false,
-    "id": 52
+    "id": 51
   },
   {
     "section": "Phiên thực hành",
@@ -1090,7 +1060,7 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": 53
+    "id": 52
   },
   {
     "section": "Phiên thực hành",
@@ -1114,7 +1084,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 54
+    "id": 53
   },
   {
     "section": "Phiên thực hành",
@@ -1137,7 +1107,7 @@ window.__slides=[
     "visual": "case1-lesson",
     "hideImage": true,
     "wide": false,
-    "id": 55
+    "id": 54
   },
   {
     "section": "Phiên thực hành",
@@ -1160,7 +1130,7 @@ window.__slides=[
     "visual": "case2-notebooklm",
     "hideImage": true,
     "wide": false,
-    "id": 56
+    "id": 55
   },
   {
     "section": "Phiên thực hành",
@@ -1183,7 +1153,7 @@ window.__slides=[
     "visual": "case3-slides",
     "hideImage": true,
     "wide": false,
-    "id": 57
+    "id": 56
   },
   {
     "section": "Phiên thực hành",
@@ -1207,10 +1177,10 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 58
+    "id": 57
   },
   {
-    "id": 59,
+    "id": 58,
     "section": "Tổng kết",
     "layout": "principles",
     "sourceType": "List",
@@ -1236,7 +1206,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 60,
+    "id": 59,
     "section": "Tổng kết",
     "layout": "imageOnly",
     "sourceType": "Image",
@@ -1257,7 +1227,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 61,
+    "id": 60,
     "section": "Tổng kết",
     "layout": "cta",
     "sourceType": "CTA",

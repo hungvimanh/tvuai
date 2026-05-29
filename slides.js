@@ -1207,6 +1207,112 @@ window.__slides=[
   },
   {
     "id": 59,
+    "section": "AI Agent",
+    "layout": "comparison",
+    "sourceType": "Comparison",
+    "title": "AI tạo sinh và AI Agent khác nhau thế nào?",
+    "subtitle": "AI tạo sinh là bộ não tạo nội dung; Agent là bộ não có thêm chân tay để thực hiện công việc.",
+    "bullets": [
+      "Trả lời, viết, tóm tắt, phân tích, gợi ý ý tưởng",
+      "Kết quả thường dừng ở văn bản, bảng, hình ảnh hoặc đoạn mã gợi ý",
+      "Cần con người tự copy, kiểm tra và thao tác trên hệ thống khác",
+      "Nhận mục tiêu, lập kế hoạch, dùng công cụ và thực hiện từng bước",
+      "Có thể đọc file, gọi API, tra cứu cơ sở dữ liệu, tạo tài liệu hoặc cập nhật hệ thống khi được cấp quyền",
+      "Con người vẫn đặt mục tiêu, cấp quyền, giám sát và phê duyệt kết quả"
+    ],
+    "notes": [
+      "Dùng ẩn dụ đơn giản: mô hình tạo sinh là bộ não; Agent là bộ não được nối với tay chân và công cụ.",
+      "Nhấn mạnh Agent không có nghĩa là tự do làm mọi thứ — nó chỉ làm trong phạm vi quyền và công cụ được cấp.",
+      "Trong giáo dục, Agent phù hợp với các việc có quy trình lặp lại như tạo học liệu, tổng hợp phản hồi, chuẩn bị báo cáo."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "agent-compare",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 60,
+    "section": "AI Agent",
+    "layout": "timeline",
+    "sourceType": "Timeline",
+    "title": "Một AI Agent làm việc như thế nào?",
+    "subtitle": "Agent biến một yêu cầu lớn thành chuỗi hành động nhỏ, có kiểm tra kết quả sau mỗi bước.",
+    "bullets": [
+      "Nhận mục tiêu và ràng buộc",
+      "Lập kế hoạch các bước cần làm",
+      "Chọn công cụ phù hợp",
+      "Thực hiện hành động và đọc kết quả",
+      "Điều chỉnh nếu kết quả chưa đạt",
+      "Trả lại đầu ra để con người kiểm tra"
+    ],
+    "notes": [
+      "So sánh với trợ lý thật: không chỉ trả lời nên làm gì, mà còn có thể mở tài liệu, tổng hợp, tạo bản nháp và báo cáo lại.",
+      "Điểm quan trọng là vòng lặp: làm một bước, quan sát, rồi quyết định bước tiếp theo.",
+      "Với việc quan trọng, nên yêu cầu Agent dừng ở các mốc cần phê duyệt thay vì tự chạy hết."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "agent-loop",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 61,
+    "section": "AI Agent",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "MCP: cách Agent kết nối với công cụ và dữ liệu",
+    "subtitle": "MCP có thể hiểu đơn giản là một chuẩn kết nối để AI dùng được các nguồn lực bên ngoài một cách có kiểm soát.",
+    "bullets": [
+      "Nguồn dữ liệu: file, thư mục, tài liệu nội bộ, cơ sở dữ liệu, hệ thống học tập",
+      "Công cụ thao tác: tìm kiếm, đọc/ghi file, gọi API, tạo báo cáo, cập nhật biểu mẫu",
+      "Chuẩn chung: mỗi công cụ mô tả rõ nó làm được gì, cần đầu vào gì và trả về kết quả gì",
+      "Kiểm soát quyền: Agent chỉ dùng được những gì được cấp quyền, không tự có quyền truy cập mọi hệ thống",
+      "Lợi ích: giảm copy-paste thủ công giữa nhiều phần mềm",
+      "Rủi ro: cần kiểm tra dữ liệu nhạy cảm, quyền ghi/xóa và log hành động"
+    ],
+    "notes": [
+      "Không cần đi sâu kỹ thuật; chỉ cần hiểu MCP giống ổ cắm chuẩn để AI cắm vào nhiều công cụ khác nhau.",
+      "Ví dụ gần gũi: Agent đọc đề cương môn học từ thư mục, tạo rubric, rồi xuất thành file Word hoặc slide.",
+      "Nhấn mạnh phần quyền: kết nối càng mạnh thì càng cần quản trị dữ liệu và phê duyệt thao tác quan trọng."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "mcp",
+    "hideImage": true,
+    "wide": false,
+    "grid": "three"
+  },
+  {
+    "id": 62,
+    "section": "AI Agent",
+    "layout": "featureGrid",
+    "sourceType": "Feature Grid",
+    "title": "Skill: đóng gói cách làm thành quy trình dùng lại",
+    "subtitle": "Skill giúp biến một cách làm tốt thành bộ hướng dẫn ổn định để AI thực hiện lặp lại.",
+    "bullets": [
+      "Prompt mẫu: mô tả vai trò, mục tiêu, đầu vào và đầu ra mong muốn",
+      "Quy trình: các bước AI cần làm theo thứ tự, không bỏ sót bước quan trọng",
+      "Tiêu chí kiểm tra: yêu cầu về độ chính xác, văn phong, định dạng và nguồn tham chiếu",
+      "Công cụ đi kèm: nếu cần, Skill có thể gọi file, biểu mẫu, API hoặc công cụ chuyên dụng",
+      "Ví dụ giảng dạy: tạo kế hoạch bài học, rubric, câu hỏi theo Bloom, phản hồi bài làm",
+      "Ví dụ nghiên cứu: tóm tắt bài báo, lập bảng so sánh, kiểm tra trích dẫn, tạo đề cương"
+    ],
+    "notes": [
+      "Nếu prompt là một lần giao việc, Skill là cách đóng gói việc đó để dùng lại nhiều lần với chất lượng ổn định hơn.",
+      "Skill phù hợp với công việc lặp lại trong khoa/phòng ban: cùng một quy chuẩn, chỉ thay dữ liệu đầu vào.",
+      "Kết nối với phần thực hành: người học có thể bắt đầu bằng prompt tốt, sau đó nâng cấp thành Skill."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "skill",
+    "hideImage": true,
+    "wide": false,
+    "grid": "three"
+  },
+  {
+    "id": 63,
     "section": "Tổng kết",
     "layout": "imageOnly",
     "sourceType": "Image",
@@ -1227,7 +1333,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 60,
+    "id": 64,
     "section": "Tổng kết",
     "layout": "cta",
     "sourceType": "CTA",

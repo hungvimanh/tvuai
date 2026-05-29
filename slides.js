@@ -1,173 +1,280 @@
 window.__slides=[
   {
     "id": 1,
-    "section": "Mở đầu",
-    "layout": "hero",
-    "sourceType": "Hero",
-    "title": "Ứng dụng AI trong công việc, giảng dạy và nghiên cứu khoa học",
-    "subtitle": "Khoa Công nghệ thông tin, Trường Đại học Trưng Vương",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "1",
+    "subtitle": "",
     "bullets": [],
-    "notes": [
-      "Mở đầu bằng bối cảnh: AI hiện không còn là chủ đề riêng của khối công nghệ thông tin.",
-      "Nhấn mạnh đây là buổi tập huấn thực tiễn, không đi sâu kỹ thuật.",
-      "Người tham dự không cần biết lập trình hay thuật toán để dùng AI hiệu quả."
-    ],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "",
-    "image": null,
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_01.png", "alt": "1", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 2,
-    "section": "Mở đầu",
-    "layout": "chapter",
-    "sourceType": "Chapter",
-    "title": "Tổng quan về AI tạo sinh",
-    "subtitle": "Cơ chế hoạt động và điểm khác biệt so với AI truyền thống",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "2",
+    "subtitle": "",
     "bullets": [],
-    "notes": [
-      "Chuyển sang phần giải thích nền tảng.",
-      "Nói rõ phần này chỉ nhằm giúp dùng AI đúng hơn, không đi vào mô hình toán học hay lập trình."
-    ],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "chapter",
-    "image": {
-      "src": "https://thethaovanhoa.mediacdn.vn/thumb_w/1000/372676912336973824/2026/5/21/ai-handshake-scaled-17793243622371958585756.png",
-      "alt": "AI và con người hợp tác"
-    },
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_02.png", "alt": "2", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 3,
-    "section": "Mở đầu",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "AI tạo sinh có thể tạo ra gì?",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "3",
     "subtitle": "",
-    "bullets": [
-      "Tài liệu/báo cáo: Viết thông báo, email, xây dựng bảng/biểu đồ báo cáo số liệu",
-      "Hình ảnh/âm thanh/video/slide: Tạo ấn phẩm truyền thông, quảng cáo",
-      "Lập kế hoạch/lên ý tưởng: Thiết kế quy trình, đề xuất phương án",
-      "Phân tích/tóm tắt: Đọc tài liệu, tóm tắt vấn đề"
-    ],
-    "notes": [
-      "Đưa ví dụ gần gũi với công việc trường đại học.",
-      "Nhấn mạnh AI không chỉ để \"hỏi đáp\", mà là công cụ tạo nội dung, chuyển đổi nội dung, phân tích nội dung."
-    ],
-    "prompt": "Có thể mở nhanh một AI và hỏi: \"Hãy liệt kê 10 việc cán bộ phòng đào tạo có thể nhờ AI hỗ trợ.\"",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
     "tone": "blue",
-    "visual": "multimodal",
-    "image": null,
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_03.png", "alt": "3", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 4,
-    "section": "Mở đầu",
-    "layout": "comparison",
-    "sourceType": "Comparison",
-    "title": "AI khác Google Search ở đâu?",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "4",
     "subtitle": "",
-    "bullets": [
-      "Tìm nguồn, trang web, tài liệu gốc",
-      "Người dùng tự đọc, tổng hợp và đánh giá",
-      "Phù hợp khi cần kiểm chứng nguồn chính thức",
-      "Tạo bản nháp, câu trả lời, tóm tắt theo yêu cầu",
-      "Cần người dùng cung cấp bối cảnh và tiêu chí",
-      "Kết quả phải được kiểm chứng trước khi dùng"
-    ],
-    "notes": [
-      "Nhiều người mới dùng AI thường hỏi như dùng Google.",
-      "Giải thích rằng AI không chỉ tìm thông tin mà còn giúp \"làm việc với thông tin\".",
-      "Nhưng khi cần nguồn mới, số liệu mới, chính sách mới thì phải dùng công cụ có nguồn hoặc kiểm chứng lại."
-    ],
+    "bullets": [],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "search-vs-ai",
-    "image": null,
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_04.png", "alt": "4", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 5,
-    "section": "Mở đầu",
-    "layout": "comparison",
-    "sourceType": "Comparison",
-    "title": "Hiểu lầm thường gặp về AI",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "5",
     "subtitle": "",
-    "bullets": [
-      "AI trả lời đúng trong mọi trường hợp",
-      "AI có thể thay con người ra quyết định",
-      "Cứ hỏi ngắn là AI tự hiểu bối cảnh",
-      "AI có thể sai, bịa hoặc thiếu nguồn nên phải kiểm chứng",
-      "AI hỗ trợ soạn thảo và phân tích; con người vẫn chịu trách nhiệm",
-      "Muốn kết quả tốt phải giao việc rõ: bối cảnh, dữ liệu, đầu ra, tiêu chí"
-    ],
-    "notes": [
-      "Giải thích rằng AI có thể rất hữu ích nhưng cũng có thể sai.",
-      "Vấn đề không phải \"có dùng AI hay không\", mà là \"dùng thế nào cho đúng vai trò và đúng trách nhiệm\".",
-      "Trong giáo dục đại học, cần hướng dẫn sinh viên dùng AI đúng thay vì chỉ cấm đoán chung chung."
-    ],
+    "bullets": [],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "myth-truth",
-    "image": null,
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_05.png", "alt": "5", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 6,
-    "section": "Mở đầu",
-    "layout": "timeline",
-    "sourceType": "Timeline",
-    "title": "Cách AI phản hồi người dùng",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "6",
     "subtitle": "",
-    "bullets": [
-      "Nhận yêu cầu",
-      "Đọc bối cảnh được cung cấp",
-      "Dự đoán câu trả lời phù hợp",
-      "Sinh nội dung",
-      "Điều chỉnh theo phản hồi tiếp theo"
-    ],
-    "notes": [
-      "Dùng ví dụ người trợ lý: nếu giao việc mơ hồ thì trợ lý đoán; nếu giao rõ thì kết quả tốt hơn.",
-      "Không cần giải thích token, transformer, neural network.",
-      "Điểm quan trọng: AI phụ thuộc rất nhiều vào cách ta đưa ngữ cảnh và tiêu chí."
-    ],
+    "bullets": [],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "",
-    "image": null,
-    "wide": false
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_06.png", "alt": "6", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 7,
-    "section": "Mở đầu",
-    "layout": "featureGrid",
-    "sourceType": "Feature Grid",
-    "title": "AI giỏi việc gì, còn yếu ở đâu?",
-    "subtitle": "Dùng AI hiệu quả nghĩa là biết giao đúng việc và đặt giới hạn an toàn.",
-    "bullets": [
-      "AI giỏi: Soạn bản nháp, tóm tắt, chuyển đổi định dạng, gợi ý ý tưởng, tạo cấu trúc ban đầu",
-      "AI còn yếu: Có thể ảo giác, bịa đặt thông tin; không hiểu bối cảnh nội bộ nếu không được cung cấp dữ liệu; không thể chịu trách nhiệm",
-      "Nguyên tắc an toàn: Không cung cấp thông tin nhạy cảm, cần bảo mật; không cho AI truy cập trực tiếp vào tài nguyên cần bảo vệ"
-    ],
-    "notes": [
-      "Dùng các ví dụ thật: tóm tắt quy chế, chuyển kế hoạch thành checklist, viết email từ gạch đầu dòng.",
-      "Nhấn mạnh AI đặc biệt hữu ích với việc lặp lại, tốn thời gian, cần cấu trúc."
-    ],
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "7",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
     "prompt": "",
     "tone": "blue",
-    "visual": "strength-safety",
-    "image": null,
-    "wide": false,
-    "grid": "three"
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_07.png", "alt": "7", "fit": "contain" },
+    "wide": true
   },
   {
     "id": 8,
-    "section": "Prompt và cách giao việc cho AI",
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "8",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_08.png", "alt": "8", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 9,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "9",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_09.png", "alt": "9", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 10,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "10",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_10.png", "alt": "10", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 11,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "11",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_11.png", "alt": "11", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 12,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "12",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_12.png", "alt": "12", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 13,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "13",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_13.png", "alt": "13", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 14,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "14",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_14.png", "alt": "14", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 15,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "15",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_15.png", "alt": "15", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 16,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "16",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_16.png", "alt": "16", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 17,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "17",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_17.png", "alt": "17", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 18,
+    "section": "Tổng quan",
+    "layout": "imageOnly",
+    "sourceType": "Image",
+    "title": "18",
+    "subtitle": "",
+    "bullets": [],
+    "notes": [],
+    "prompt": "",
+    "tone": "blue",
+    "imageHeight": 1080,
+    "image": { "src": "deck_images/slide-co-ha/slide co ha_Page_18.png", "alt": "18", "fit": "contain" },
+    "wide": true
+  },
+  {
+    "id": 19,
+    "section": "Prompt và công thức giao việc",
     "layout": "chapter",
     "sourceType": "Chapter",
-    "title": "Prompt và cách giao việc cho AI",
+    "title": "Prompt và công thức giao việc",
     "subtitle": "Từ hỏi đáp đơn giản đến giao việc có bối cảnh, dữ liệu và tiêu chí",
     "bullets": [],
     "notes": [
@@ -178,13 +285,12 @@ window.__slides=[
     "prompt": "",
     "tone": "blue",
     "visual": "chapter",
-    "image": null,
-    "wide": false,
-    "hideImage": true
+    "image": { "src": "deck_images/prompt.png", "alt": "Prompt", "fit": "contain" },
+    "wide": true
   },
   {
-    "id": 9,
-    "section": "Prompt và cách giao việc cho AI",
+    "id": 20,
+    "section": "Prompt và công thức giao việc",
     "layout": "comparison",
     "sourceType": "Comparison",
     "title": "Prompt là gì?",
@@ -206,8 +312,8 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 10,
-    "section": "Prompt và cách giao việc cho AI",
+    "id": 21,
+    "section": "Prompt và công thức giao việc",
     "layout": "formula",
     "sourceType": "Feature Grid",
     "title": "Công thức prompt 6 thành phần",
@@ -232,8 +338,8 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 11,
-    "section": "Prompt và cách giao việc cho AI",
+    "id": 22,
+    "section": "Prompt và công thức giao việc",
     "layout": "card",
     "sourceType": "Content Card",
     "title": "Mẫu prompt chung",
@@ -260,7 +366,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "section": "Prompt và cách giao việc cho AI",
+    "section": "Prompt và công thức giao việc",
     "layout": "demo",
     "sourceType": "Demo",
     "title": "Prompt khung cho giảng viên",
@@ -274,16 +380,16 @@ window.__slides=[
       "Đây là prompt người nghe có thể chụp lại và thay dữ liệu trong ngoặc vuông.",
       "Nên demo nhanh bằng một chủ đề trung tính như kỹ năng làm việc nhóm, sau đó nói có thể thay bằng chuyên ngành riêng."
     ],
-    "prompt": "Bạn là giảng viên đại học có kinh nghiệm thiết kế bài giảng theo hướng lấy người học làm trung tâm.\n\nTôi cần chuẩn bị một buổi học [thời lượng] về chủ đề: [chủ đề].\nĐối tượng: sinh viên năm [x], ngành [ngành], trình độ [mô tả ngắn].\n\nHãy tạo bản nháp gồm:\n1. Mục tiêu học tập có thể đo lường\n2. Kế hoạch thời gian\n3. Hoạt động mở đầu\n4. Nội dung chính\n5. Case study hoặc ví dụ theo ngành\n6. Câu hỏi kiểm tra theo Bloom\n7. Bài tập sau buổi học\n8. Rubric đánh giá ngắn\n\nNếu thiếu thông tin quan trọng, hãy hỏi lại trước khi trả lời.",
+    "prompt": "Bạn là giảng viên đại học có kinh nghiệm thiết kế bài giảng theo hướng lấy người học làm trung tâm.\n\nTôi cần chuẩn bị một buổi học [thời lượng] về chủ đề: [chủ đề].\nĐối tượng: sinh viên năm [x], ngành [ngành], trình độ [mô tả ngắn].\n\nHãy tạo bản nháp gồm:\n1. Mục tiêu học tập có thể đo lường\n2. Kế hoạch thời gian\n3. Hoạt động Prompt và công thức giao việc\n4. Nội dung chính\n5. Case study hoặc ví dụ theo ngành\n6. Câu hỏi kiểm tra theo Bloom\n7. Bài tập sau buổi học\n8. Rubric đánh giá ngắn\n\nNếu thiếu thông tin quan trọng, hãy hỏi lại trước khi trả lời.",
     "tone": "blue",
     "visual": "prompt-template",
     "hideImage": true,
     "wide": false,
-    "id": 12
+    "id": 23
   },
   {
-    "id": 13,
-    "section": "Prompt và cách giao việc cho AI",
+    "id": 24,
+    "section": "Prompt và công thức giao việc",
     "layout": "featureGrid",
     "sourceType": "List",
     "title": "5 lỗi phổ biến khi dùng AI",
@@ -301,18 +407,114 @@ window.__slides=[
     "prompt": "",
     "tone": "blue",
     "visual": "mistakes",
-    "image": {
-      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9-K90E2HWPjJYbFedCLTbobk_E71EBx8EBg&s",
-      "alt": "Sai lầm thường gặp khi dùng AI"
-    },
+    "hideImage": true,
+    "wide": false
+  },
+  {
+    "id": 25,
+    "section": "Prompt và công thức giao việc",
+    "layout": "comparison",
+    "sourceType": "Comparison",
+    "title": "Hiểu lầm thường gặp về AI",
+    "subtitle": "",
+    "bullets": [
+      "AI trả lời đúng trong mọi trường hợp",
+      "AI có thể thay con người ra quyết định",
+      "Cứ hỏi ngắn là AI tự hiểu bối cảnh",
+      "AI có thể sai, bịa hoặc thiếu nguồn nên phải kiểm chứng",
+      "AI hỗ trợ soạn thảo và phân tích; con người vẫn chịu trách nhiệm",
+      "Muốn kết quả tốt phải giao việc rõ: bối cảnh, dữ liệu, đầu ra, tiêu chí"
+    ],
+    "notes": [
+      "Giải thích rằng AI có thể rất hữu ích nhưng cũng có thể sai.",
+      "Vấn đề không phải \"có dùng AI hay không\", mà là \"dùng thế nào cho đúng vai trò và đúng trách nhiệm\".",
+      "Trong giáo dục đại học, cần hướng dẫn sinh viên dùng AI đúng thay vì chỉ cấm đoán chung chung."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "myth-truth",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 26,
+    "section": "Prompt và công thức giao việc",
+    "layout": "timeline",
+    "sourceType": "Timeline",
+    "title": "Cách AI phản hồi người dùng",
+    "subtitle": "",
+    "bullets": [
+      "Nhận yêu cầu",
+      "Đọc bối cảnh được cung cấp",
+      "Dự đoán câu trả lời phù hợp",
+      "Sinh nội dung",
+      "Điều chỉnh theo phản hồi tiếp theo"
+    ],
+    "notes": [
+      "Dùng ví dụ người trợ lý: nếu giao việc mơ hồ thì trợ lý đoán; nếu giao rõ thì kết quả tốt hơn.",
+      "Không cần giải thích token, transformer, neural network.",
+      "Điểm quan trọng: AI phụ thuộc rất nhiều vào cách ta đưa ngữ cảnh và tiêu chí."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "",
+    "image": null,
+    "wide": false
+  },
+  {
+    "id": 27,
+    "section": "Prompt và công thức giao việc",
+    "layout": "featureGrid",
+    "sourceType": "List",
+    "title": "Hiện tượng \"ảo giác\" của AI",
+    "subtitle": "AI không thật sự biết; AI dự đoán câu trả lời có khả năng phù hợp nhất với ngữ cảnh.",
+    "bullets": [
+      "Có thể bịa nguồn, số liệu, tên văn bản, quy định hoặc ví dụ chuyên ngành",
+      "Thường xảy ra khi câu hỏi thiếu dữ liệu, yêu cầu quá rộng hoặc đòi hỏi thông tin rất mới",
+      "Câu trả lời càng trôi chảy càng dễ tạo cảm giác đáng tin",
+      "Nguyên tắc an toàn: Xem bản nháp của AI là gợi ý, không phải bằng chứng"
+    ],
+    "notes": [
+      "Giải thích hallucination bằng ngôn ngữ đơn giản: AI có thể nói sai một cách rất tự tin.",
+      "Nhấn mạnh đây không phải lỗi riêng của một công cụ, mà là giới hạn chung của mô hình sinh văn bản.",
+      "Với nội dung học thuật, pháp lý, tài chính, quy chế đào tạo hoặc số liệu, luôn cần kiểm chứng bằng nguồn chính thức."
+    ],
+    "prompt": "",
+    "tone": "blue",
+    "visual": "mistakes",
+    "hideImage": true,
+    "wide": false
+  },
+  {
+    "id": 28,
+    "section": "Prompt và công thức giao việc",
+    "layout": "card",
+    "sourceType": "Content Card",
+    "title": "Context window: đừng nhồi quá đầy",
+    "subtitle": "Kinh nghiệm thực hành: dùng khoảng 50-70% context window cho dữ liệu đầu vào; chừa phần còn lại để AI suy luận và trả lời.",
+    "bullets": [
+      "Dưới 50%: thường dễ kiểm soát, miễn là dữ liệu liên quan và rõ ràng",
+      "Khoảng 50-70%: vùng làm việc tốt cho tài liệu dài, cần tóm tắt và cấu trúc rõ",
+      "Trên 80%: AI dễ bỏ sót chi tiết, lẫn thông tin cũ mới hoặc trả lời lan man",
+      "Tránh hallucination: cung cấp dữ liệu gốc, yêu cầu trích dẫn đoạn liên quan, và bắt AI nói 'chưa đủ dữ liệu' khi không chắc"
+    ],
+    "notes": [
+      "Các tỷ lệ này là quy tắc kinh nghiệm, không phải con số tuyệt đối cho mọi mô hình.",
+      "Context window giống mặt bàn làm việc: đặt quá nhiều tài liệu lên bàn thì người trợ lý khó tìm đúng phần quan trọng.",
+      "Cách làm tốt: chia tài liệu dài thành phần nhỏ, hỏi từng bước, tóm tắt trung gian, đưa tiêu chí rõ và kiểm chứng nguồn."
+    ],
+    "prompt": "Nếu câu trả lời có dùng thông tin trong tài liệu, hãy chỉ rõ đoạn nào hỗ trợ kết luận. Nếu tài liệu không có đủ dữ kiện, hãy nói 'chưa đủ dữ liệu' thay vì tự suy đoán.",
+    "tone": "blue",
+    "visual": "prompt-template",
+    "image": { "src": "deck_images/hallucination.jpeg", "alt": "AI hallucinations", "fit": "contain" },
     "wide": false
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
     "layout": "chapter",
     "sourceType": "Chapter",
-    "title": "Ứng dụng AI trong hoạt động giảng dạy",
-    "eyebrow": "Phần 1",
+    "title": "AI trong hoạt động giảng dạy",
+    "eyebrow": "Ứng dụng",
     "centerText": true,
     "subtitle": "Soạn bài, thiết kế hoạt động, đánh giá học tập với AI",
     "bullets": [],
@@ -324,9 +526,9 @@ window.__slides=[
     "prompt": "",
     "tone": "blue",
     "visual": "teaching-cycle",
-    "hideImage": true,
-    "wide": false,
-    "id": 14
+    "image": { "src": "deck_images/ai_edu.png", "alt": "AI trong giáo dục", "fit": "contain" },
+    "wide": true,
+    "id": 29
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -349,7 +551,7 @@ window.__slides=[
     "image": null,
     "wide": false,
     "grid": "three",
-    "id": 15
+    "id": 30
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -384,7 +586,7 @@ window.__slides=[
       "deck_images/canva.png",
       "deck_images/gamma.png"
     ],
-    "id": 16
+    "id": 31
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -419,7 +621,7 @@ window.__slides=[
       "deck_images/canva.png",
       "deck_images/gamma.png"
     ],
-    "id": 17
+    "id": 32
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -437,7 +639,7 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": 18
+    "id": 33
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -461,7 +663,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 19
+    "id": 34
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -484,7 +686,7 @@ window.__slides=[
     "visual": "doc-analysis",
     "hideImage": true,
     "wide": false,
-    "id": 20
+    "id": 35
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -506,7 +708,7 @@ window.__slides=[
     "visual": "activity-ideas",
     "hideImage": true,
     "wide": false,
-    "id": 21
+    "id": 36
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -524,7 +726,7 @@ window.__slides=[
     "visual": "notebooklm",
     "image": { "src": "deck_images/notebooklm-tool.png", "alt": "Google NotebookLM", "fit": "contain" },
     "wide": false,
-    "id": 22
+    "id": 37
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -549,7 +751,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 23
+    "id": 38
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -571,7 +773,7 @@ window.__slides=[
     "visual": "notebooklm-chat",
     "hideImage": true,
     "wide": false,
-    "id": 24
+    "id": 39
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -594,7 +796,7 @@ window.__slides=[
     "visual": "notebooklm-roadmap",
     "hideImage": true,
     "wide": false,
-    "id": 25
+    "id": 40
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -617,7 +819,7 @@ window.__slides=[
     "visual": "notebooklm-slides",
     "hideImage": true,
     "wide": false,
-    "id": 26
+    "id": 41
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -639,7 +841,7 @@ window.__slides=[
     "visual": "notebooklm-audio",
     "hideImage": true,
     "wide": false,
-    "id": 27
+    "id": 42
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -661,7 +863,7 @@ window.__slides=[
     "visual": "notebooklm-questions",
     "hideImage": true,
     "wide": false,
-    "id": 28
+    "id": 43
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -684,7 +886,7 @@ window.__slides=[
     "image": null,
     "wide": false,
     "grid": "three",
-    "id": 29
+    "id": 44
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -702,7 +904,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/canva.png", "alt": "Canva AI", "fit": "contain" },
     "wide": false,
-    "id": 30
+    "id": 45
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -727,7 +929,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 31
+    "id": 46
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -752,7 +954,7 @@ window.__slides=[
     "visual": "canva-slide",
     "hideImage": true,
     "wide": false,
-    "id": 32
+    "id": 47
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -775,7 +977,7 @@ window.__slides=[
     "visual": "canva-infographic",
     "hideImage": true,
     "wide": false,
-    "id": 33
+    "id": 48
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -793,7 +995,7 @@ window.__slides=[
     "visual": "chapter",
     "image": { "src": "deck_images/gamma.png", "alt": "Gamma AI", "fit": "contain" },
     "wide": false,
-    "id": 34
+    "id": 49
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -818,7 +1020,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "two",
-    "id": 35
+    "id": 50
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -843,7 +1045,7 @@ window.__slides=[
     "visual": "gamma-generate",
     "hideImage": true,
     "wide": false,
-    "id": 36
+    "id": 51
   },
   {
     "section": "Ứng dụng AI trong hoạt động giảng dạy",
@@ -867,7 +1069,7 @@ window.__slides=[
     "visual": "gamma-import",
     "hideImage": true,
     "wide": false,
-    "id": 37
+    "id": 52
   },
   {
     "section": "Phiên thực hành",
@@ -888,7 +1090,7 @@ window.__slides=[
     "visual": "chapter",
     "hideImage": true,
     "wide": false,
-    "id": 38
+    "id": 53
   },
   {
     "section": "Phiên thực hành",
@@ -912,7 +1114,7 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 39
+    "id": 54
   },
   {
     "section": "Phiên thực hành",
@@ -935,7 +1137,7 @@ window.__slides=[
     "visual": "case1-lesson",
     "hideImage": true,
     "wide": false,
-    "id": 40
+    "id": 55
   },
   {
     "section": "Phiên thực hành",
@@ -958,7 +1160,7 @@ window.__slides=[
     "visual": "case2-notebooklm",
     "hideImage": true,
     "wide": false,
-    "id": 41
+    "id": 56
   },
   {
     "section": "Phiên thực hành",
@@ -981,7 +1183,7 @@ window.__slides=[
     "visual": "case3-slides",
     "hideImage": true,
     "wide": false,
-    "id": 42
+    "id": 57
   },
   {
     "section": "Phiên thực hành",
@@ -1005,10 +1207,10 @@ window.__slides=[
     "hideImage": true,
     "wide": false,
     "grid": "three",
-    "id": 43
+    "id": 58
   },
   {
-    "id": 44,
+    "id": 59,
     "section": "Tổng kết",
     "layout": "principles",
     "sourceType": "List",
@@ -1034,7 +1236,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 45,
+    "id": 60,
     "section": "Tổng kết",
     "layout": "imageOnly",
     "sourceType": "Image",
@@ -1055,7 +1257,7 @@ window.__slides=[
     "wide": false
   },
   {
-    "id": 46,
+    "id": 61,
     "section": "Tổng kết",
     "layout": "cta",
     "sourceType": "CTA",
